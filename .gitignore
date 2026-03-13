@@ -220,3 +220,6 @@ skills-backup-*.tar.gz
 
 # Local marketplace working docs (do not commit yet)
 docs/marketplace/
+
+# Local nested repo clone (do not commit)
+Product-Manager-Skills/
